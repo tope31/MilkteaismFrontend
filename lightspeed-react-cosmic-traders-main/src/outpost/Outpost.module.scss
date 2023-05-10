@@ -1,0 +1,10 @@
+$gutter: 30px;
+
+.mainLeft {
+  flex-grow: 1;
+  margin-right: $gutter;
+}
+
+.rightSidebar {
+  width: 360px;
+}
